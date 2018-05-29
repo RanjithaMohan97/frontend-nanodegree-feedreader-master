@@ -4,7 +4,7 @@
 * Link to Project
 
 ## Instructions
-The project  is to analyse the knowledge on testing, so the job is to develope tests for the given feed reader site. The project is developed using the Javascript testing framework Jasmine.
+The project  is to analyse the knowledge on testing, so the job is to develop tests for the given feed reader site. The project is built based on the Javascript testing framework Jasmine.
 
 ## Technologies
 * HTML
