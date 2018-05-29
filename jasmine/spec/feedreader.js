@@ -65,7 +65,7 @@ describe('The menu', function() {
         });
 
 //test to check that menu is toggling correctly
-         it('menu changes when clicked',function(){
+         it('menu show/hide when clicked',function(){
 
             document.querySelector(".menu-icon-link").click();
             expect(body.classList.contains('menu-hidden')).toBe(false);
